@@ -269,7 +269,7 @@ main {
     }
 }
 
-/* Media query: tablets and larger (769px and up) */
+/* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
@@ -300,7 +300,7 @@ main {
 
     /* Form */
     #signup {
-        background: center;
+        background-position: center;
         position: relative;
     }
 
