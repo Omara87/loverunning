@@ -367,6 +367,10 @@ main {
     #photos {
         column-count: 4;
     }
+
+    #signup {
+        background-position: center;
+        position: relative;
 }
 
 /* Large devices (1200px and up) */
@@ -395,4 +399,8 @@ main {
     #benefits-physical > div {
         align-self: flex-end;
     }
+
+    #signup {
+        background-position: center;
+        position: relative;
 }
